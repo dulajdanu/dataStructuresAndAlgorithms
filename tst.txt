@@ -5,6 +5,9 @@ vvdvdvdnvkdfv  fvkimn
 ddkfjs rjgik
 edited lasy line
 
+
+using namespace std;
+cout << "hello ako"
 inclde stdio .h
 int main()
 {]

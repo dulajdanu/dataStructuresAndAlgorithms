@@ -9,3 +9,5 @@ inclde stdio .h
 int main()
 {]
 printf
+
+kauda yako mehema huththrak gauwe

@@ -4,3 +4,8 @@ who aar fun carry phine air mona magulakda yako hena ghnwa yako thopita
 vvdvdvdnvkdfv  fvkimn 
 ddkfjs rjgik
 edited lasy line
+
+inclde stdio .h
+int main()
+{]
+printf
